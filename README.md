@@ -1,4 +1,4 @@
-I work for @codesoft internship .#webdevelopment
+#webdevelopment
 ## Project Overview
 
 This project is a **Road Trip Landing Page** designed to provide users with an engaging and visually appealing entry point for planning their road trips. Built using **HTML**, **CSS**, and **JavaScript**, the landing page is fully responsive and features interactive elements to enhance user experience.
